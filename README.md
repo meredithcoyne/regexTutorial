@@ -17,7 +17,7 @@ This tool is often used in web development.
 
 ## Regex 
 ----------
-[Regex Gist URL]()
+[Regex Gist URL](https://gist.github.com/meredithcoyne/5330ec179b0e3600cf2808bfa7adb00e#file-regexgist)
 
 ## Author
 ---------
